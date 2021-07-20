@@ -1,0 +1,17 @@
+{
+    "name": "drhuy/ddos_protected",
+    "type": "library",
+    "license": "DEV",
+    "autoload": {
+        "psr-4": {
+            "Drhuy\\DdosProtected\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Drhuy",
+            "email": "huyn03@gmail.com"
+        }
+    ],
+    "require": {}
+}
