@@ -1,7 +1,7 @@
 {
     "name": "drhuy/ddos_protected",
     "type": "library",
-    "license": "DEV",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Drhuy\\DdosProtected\\": "src/"
