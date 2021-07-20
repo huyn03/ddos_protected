@@ -1,5 +1,6 @@
 {
     "name": "drhuy/ddos_protected",
+    "description": "php library protect ddos service. Limit requests by minutes form guest or ipaddress.",
     "type": "library",
     "license": "MIT",
     "autoload": {
